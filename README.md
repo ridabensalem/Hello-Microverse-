@@ -100,7 +100,7 @@ Clone this repository to your desired folder:
  commands:
 
 ```sh
-  git clone https://github.com/roniy68/hello-world.git
+  git clone https://github.com/ridabensalem/Hello-Microverse-
   cd hello-world
   npm install -y
 ```
